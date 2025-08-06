@@ -1,0 +1,5 @@
+com/example/jwtclient/Lab12PartCClientApplication.class
+com/example/jwtclient/dto/JwtAuthenticationResponse.class
+com/example/jwtclient/JwtRestClient.class
+com/example/jwtclient/dto/SignUpRequest.class
+com/example/jwtclient/dto/SignInRequest.class

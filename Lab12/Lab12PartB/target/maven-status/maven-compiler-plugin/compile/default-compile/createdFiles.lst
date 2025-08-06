@@ -1,0 +1,8 @@
+myapplication/security/userservice/SecurityUser.class
+myapplication/controller/MyController.class
+myapplication/security/userservice/UserDetailsServiceImpl.class
+myapplication/security/userservice/User.class
+myapplication/security/userservice/UserRepository.class
+myapplication/security/userservice/Role.class
+myapplication/Application.class
+myapplication/security/SecurityConfig.class

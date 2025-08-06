@@ -1,0 +1,5 @@
+com/example/lab12/config/SecurityConfig.class
+com/example/lab12/controller/ShopController.class
+com/example/lab12/Lab12Application.class
+com/example/lab12/controller/OrdersController.class
+com/example/lab12/controller/PaymentsController.class

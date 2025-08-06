@@ -1,0 +1,8 @@
+/Users/elijahariyibi/Desktop/WebSecurityProject2/src/main/java/myapplication/Application.java
+/Users/elijahariyibi/Desktop/WebSecurityProject2/src/main/java/myapplication/controller/MyController.java
+/Users/elijahariyibi/Desktop/WebSecurityProject2/src/main/java/myapplication/security/SecurityConfig.java
+/Users/elijahariyibi/Desktop/WebSecurityProject2/src/main/java/myapplication/security/userservice/Role.java
+/Users/elijahariyibi/Desktop/WebSecurityProject2/src/main/java/myapplication/security/userservice/SecurityUser.java
+/Users/elijahariyibi/Desktop/WebSecurityProject2/src/main/java/myapplication/security/userservice/User.java
+/Users/elijahariyibi/Desktop/WebSecurityProject2/src/main/java/myapplication/security/userservice/UserDetailsServiceImpl.java
+/Users/elijahariyibi/Desktop/WebSecurityProject2/src/main/java/myapplication/security/userservice/UserRepository.java
