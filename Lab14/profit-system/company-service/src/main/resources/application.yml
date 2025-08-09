@@ -1,0 +1,28 @@
+server:
+  port: 8083
+
+spring:
+  application:
+    name: company-service
+  
+  ai:
+    openai:
+      api-key: ${OPENAI_API_KEY:demo}
+      chat:
+        options:
+          model: gpt-3.5-turbo
+          temperature: 0.3
+
+profit:
+  service:
+    url: http://localhost:8081
+
+currency:
+  service:
+    url: http://localhost:8082
+
+logging:
+  level:
+    com.profitsystem: DEBUG
+    org.springframework.web: DEBUG
+    org.springframework.ai: DEBUG
